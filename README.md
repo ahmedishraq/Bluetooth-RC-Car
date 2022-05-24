@@ -11,3 +11,7 @@ Project 1: `Android based bluetooth control car` of CSE461 Introduction to Robot
 + Battery: `9v` & `3.7v 3800mAh`
 + Car Chassis: `2WD Smart Robot Car Chassis`
 + Start Switch: `4 pin switch button`
+
+## Language Used
++ C
++ C++
